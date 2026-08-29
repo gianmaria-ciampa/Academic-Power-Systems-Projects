@@ -2,9 +2,9 @@ Academic Power Systems Projects
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-Software-blue)
 ![MATPOWER](https://img.shields.io/badge/MATPOWER-PowerFlow-orange)
-![FEMM](https://img.shields.io/badge/FEMM-FiniteElementMagnetics-red)
 ![PowerSystems](https://img.shields.io/badge/Power%20Systems-Engineering-green)
 ![HighVoltage](https://img.shields.io/badge/High%20Voltage-Networks-yellow)
+![FEMM](https://img.shields.io/badge/FEMM-FiniteElementMagnetics-red)
 
 Collection of academic projects in Electrical Engineering, focusing on high‑voltage network analysis, Ybus matrix construction, power system resilience assessment, FEM modeling of grounding electrodes, and FEMM simulations of magnetic fields.
 The repository includes MATLAB scripts, numerical models, FEM/FEMM simulations, and technical documentation.
